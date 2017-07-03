@@ -42,6 +42,9 @@
 		<p>
 			This is a test line by Bryan --- 수정된 라인(지나가는 개발자)
 		</p>
+	    	<p>
+			I'm studying  openshfit. --- 2017.07.03
+		</p>
 		<ul>
 			<li>
 				<a id="simpleLink" class="textLink" href="<c:url value="/simple" />">GET /simple</a>
